@@ -1,0 +1,89 @@
+2020-04-27 02:04:02 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:479 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:480 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:729 INFO  LoginPage :45 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (c37cb932c54b00738fde7ba55c06fed4)] -> id: btnLogin]
+2020-04-27 02:04:111 INFO  LoginPage :50 - Getting welcome admin text Proxy element for: DefaultElementLocator 'By.id: welcome'
+2020-04-27 02:04:524 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:592 INFO  LoginPage :32 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (8202baf30292d7c27c1172831c01eb6a)] -> id: txtUsername]
+2020-04-27 02:04:748 INFO  LoginPage :39 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (8202baf30292d7c27c1172831c01eb6a)] -> id: txtPassword]
+2020-04-27 02:04:578 INFO  LoginPage :45 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 02:04:931 INFO  LoginPage :50 - Getting welcome admin text [[ChromeDriver: chrome on WINDOWS (8202baf30292d7c27c1172831c01eb6a)] -> id: welcome]
+2020-04-27 02:04:934 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:410 INFO  LoginPage :32 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (a809ca076edf116217ca230dcf5f8499)] -> id: txtUsername]
+2020-04-27 02:04:561 INFO  LoginPage :39 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (a809ca076edf116217ca230dcf5f8499)] -> id: txtPassword]
+2020-04-27 02:04:393 INFO  LoginPage :45 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 02:04:483 INFO  LoginPage :50 - Getting welcome admin text [[ChromeDriver: chrome on WINDOWS (a809ca076edf116217ca230dcf5f8499)] -> id: welcome]
+2020-04-27 02:04:304 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:285 INFO  LoginPage :32 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (4600b145115347f11619fbbf76fe3dff)] -> id: txtUsername]
+2020-04-27 02:04:623 INFO  LoginPage :39 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (4600b145115347f11619fbbf76fe3dff)] -> id: txtPassword]
+2020-04-27 02:04:276 INFO  LoginPage :45 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 02:04:349 INFO  LoginPage :50 - Getting welcome admin text [[ChromeDriver: chrome on WINDOWS (4600b145115347f11619fbbf76fe3dff)] -> id: welcome]
+2020-04-27 02:04:205 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:233 INFO  LoginPage :34 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (9ed56ec17eb92c0b6d89d82026ffc856)] -> id: txtUsername]
+2020-04-27 02:04:662 INFO  LoginPage :41 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (9ed56ec17eb92c0b6d89d82026ffc856)] -> id: txtPassword]
+2020-04-27 02:04:440 INFO  LoginPage :47 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 02:04:498 INFO  LoginPage :52 - Getting welcome admin text [[ChromeDriver: chrome on WINDOWS (9ed56ec17eb92c0b6d89d82026ffc856)] -> id: welcome]
+2020-04-27 02:04:600 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:249 INFO  LoginPage :34 - Enter user name dhannoUsername field [[ChromeDriver: chrome on WINDOWS (0121b4eb741b95016078331c9eb19274)] -> id: txtUsername]
+2020-04-27 02:04:237 INFO  LoginPage :34 - Enter user name dh123Username field [[ChromeDriver: chrome on WINDOWS (0121b4eb741b95016078331c9eb19274)] -> id: txtUsername]
+2020-04-27 02:04:561 INFO  LoginPage :47 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (0121b4eb741b95016078331c9eb19274)] -> id: btnLogin]
+2020-04-27 02:04:725 INFO  LoginPage :58 - Getting Error Text [[ChromeDriver: chrome on WINDOWS (0121b4eb741b95016078331c9eb19274)] -> id: spanMessage]
+2020-04-27 02:04:981 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:476 INFO  LoginPage :34 - Enter user name runnerUsername field [[ChromeDriver: chrome on WINDOWS (7a484c8358542c9691c7d968239e005c)] -> id: txtUsername]
+2020-04-27 02:04:888 INFO  LoginPage :34 - Enter user name slow123Username field [[ChromeDriver: chrome on WINDOWS (7a484c8358542c9691c7d968239e005c)] -> id: txtUsername]
+2020-04-27 02:04:360 INFO  LoginPage :47 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (7a484c8358542c9691c7d968239e005c)] -> id: btnLogin]
+2020-04-27 02:04:425 INFO  LoginPage :58 - Getting Error Text [[ChromeDriver: chrome on WINDOWS (7a484c8358542c9691c7d968239e005c)] -> id: spanMessage]
+2020-04-27 02:04:520 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:891 INFO  LoginPage :34 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (c8245b30df0a83a6182e345c93781187)] -> id: txtUsername]
+2020-04-27 02:04:137 INFO  LoginPage :41 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (c8245b30df0a83a6182e345c93781187)] -> id: txtPassword]
+2020-04-27 02:04:77 INFO  LoginPage :47 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 02:04:121 INFO  LoginPage :52 - Getting welcome admin text [[ChromeDriver: chrome on WINDOWS (c8245b30df0a83a6182e345c93781187)] -> id: welcome]
+2020-04-27 02:04:276 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:232 INFO  LoginPage :34 - Enter user name dhannoUsername field [[ChromeDriver: chrome on WINDOWS (90bf4b4bb48fcca9ae928212994d2a1a)] -> id: txtUsername]
+2020-04-27 02:04:940 INFO  LoginPage :41 - Enter password dh123Password field [[ChromeDriver: chrome on WINDOWS (90bf4b4bb48fcca9ae928212994d2a1a)] -> id: txtPassword]
+2020-04-27 02:04:79 INFO  LoginPage :47 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (90bf4b4bb48fcca9ae928212994d2a1a)] -> id: btnLogin]
+2020-04-27 02:04:126 INFO  LoginPage :58 - Getting Error Text [[ChromeDriver: chrome on WINDOWS (90bf4b4bb48fcca9ae928212994d2a1a)] -> id: spanMessage]
+2020-04-27 02:04:197 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 02:04:813 INFO  LoginPage :34 - Enter user name runnerUsername field [[ChromeDriver: chrome on WINDOWS (8bbb7c222374d4180ea0b05d891fbf81)] -> id: txtUsername]
+2020-04-27 02:04:142 INFO  LoginPage :41 - Enter password slow123Password field [[ChromeDriver: chrome on WINDOWS (8bbb7c222374d4180ea0b05d891fbf81)] -> id: txtPassword]
+2020-04-27 02:04:984 INFO  LoginPage :47 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (8bbb7c222374d4180ea0b05d891fbf81)] -> id: btnLogin]
+2020-04-27 02:04:74 INFO  LoginPage :58 - Getting Error Text [[ChromeDriver: chrome on WINDOWS (8bbb7c222374d4180ea0b05d891fbf81)] -> id: spanMessage]
+2020-04-27 02:04:169 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 03:04:443 INFO  LoginPage :34 - Enter user name slowrunUsername field [[ChromeDriver: chrome on WINDOWS (4047acc1e38c37de218c663e78c9cddd)] -> id: txtUsername]
+2020-04-27 03:04:839 INFO  LoginPage :41 - Enter password fast234Password field [[ChromeDriver: chrome on WINDOWS (4047acc1e38c37de218c663e78c9cddd)] -> id: txtPassword]
+2020-04-27 03:04:645 INFO  LoginPage :47 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (4047acc1e38c37de218c663e78c9cddd)] -> id: btnLogin]
+2020-04-27 03:04:739 INFO  LoginPage :58 - Getting Error Text [[ChromeDriver: chrome on WINDOWS (4047acc1e38c37de218c663e78c9cddd)] -> id: spanMessage]
+2020-04-27 03:04:991 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 03:04:111 INFO  LoginPage :34 - Enter user name xyzabcUsername field [[ChromeDriver: chrome on WINDOWS (dd1471d6d7a4563fa806619247d73fc1)] -> id: txtUsername]
+2020-04-27 03:04:312 INFO  LoginPage :41 - Enter password zxy123Password field [[ChromeDriver: chrome on WINDOWS (dd1471d6d7a4563fa806619247d73fc1)] -> id: txtPassword]
+2020-04-27 03:04:442 INFO  LoginPage :47 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (dd1471d6d7a4563fa806619247d73fc1)] -> id: btnLogin]
+2020-04-27 03:04:577 INFO  LoginPage :58 - Getting Error Text [[ChromeDriver: chrome on WINDOWS (dd1471d6d7a4563fa806619247d73fc1)] -> id: spanMessage]
+2020-04-27 03:04:888 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 03:04:86 INFO  LoginPage :34 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (27eb3b1665ce07424c26a3e6729bfec8)] -> id: txtUsername]
+2020-04-27 03:04:713 INFO  LoginPage :41 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (27eb3b1665ce07424c26a3e6729bfec8)] -> id: txtPassword]
+2020-04-27 03:04:817 INFO  LoginPage :47 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 03:04:364 INFO  DashboardPage :49 - Clicking on admin button [[ChromeDriver: chrome on WINDOWS (27eb3b1665ce07424c26a3e6729bfec8)] -> xpath: //b[contains(text(),'Admin')]]
+2020-04-27 03:04:273 INFO  DashboardPage :55 - Clicking on add button Proxy element for: DefaultElementLocator 'By.id: btnAdd'
+2020-04-27 03:04:354 INFO  DashboardPage :42 - Getting Add Feature Text Message [[ChromeDriver: chrome on WINDOWS (27eb3b1665ce07424c26a3e6729bfec8)] -> xpath: //h1[@id='UserHeading']]
+2020-04-27 03:04:442 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 03:04:952 INFO  LoginPage :34 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (db9e12b62d4bd8c0ee3f908371319807)] -> id: txtUsername]
+2020-04-27 03:04:159 INFO  LoginPage :41 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (db9e12b62d4bd8c0ee3f908371319807)] -> id: txtPassword]
+2020-04-27 03:04:173 INFO  LoginPage :47 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-27 03:04:775 INFO  DashboardPage :37 - Clicking On Market Place Button[[ChromeDriver: chrome on WINDOWS (db9e12b62d4bd8c0ee3f908371319807)] -> xpath: //input[@id='MP_link']]
+2020-04-27 03:04:909 INFO  DashboardPage :30 - Getting Orange Text MessageProxy element for: DefaultElementLocator 'By.xpath: //h1[@id='UserHeading']'
+2020-04-29 16:04:279 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 16:04:40 INFO  LoginPage :34 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (44d2bea73f3cb3a91a664581b514ae9b)] -> id: txtUsername]
+2020-04-29 16:04:144 INFO  LoginPage :41 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (44d2bea73f3cb3a91a664581b514ae9b)] -> id: txtPassword]
+2020-04-29 16:04:34 INFO  LoginPage :47 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 16:04:967 INFO  DashboardPage :49 - Clicking on admin button [[ChromeDriver: chrome on WINDOWS (44d2bea73f3cb3a91a664581b514ae9b)] -> xpath: //b[contains(text(),'Admin')]]
+2020-04-29 16:04:537 INFO  DashboardPage :55 - Clicking on add button Proxy element for: DefaultElementLocator 'By.id: btnAdd'
+2020-04-29 16:04:592 INFO  DashboardPage :42 - Getting Add Feature Text Message [[ChromeDriver: chrome on WINDOWS (44d2bea73f3cb3a91a664581b514ae9b)] -> xpath: //h1[@id='UserHeading']]
+2020-04-29 16:04:625 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 16:04:864 INFO  LoginPage :34 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (73da15fa893ae9a70832764583f118fd)] -> id: txtUsername]
+2020-04-29 16:04:960 INFO  LoginPage :41 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (73da15fa893ae9a70832764583f118fd)] -> id: txtPassword]
+2020-04-29 16:04:296 INFO  LoginPage :47 - Clicking on login button Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-29 16:04:375 INFO  DashboardPage :37 - Clicking On Market Place Button[[ChromeDriver: chrome on WINDOWS (73da15fa893ae9a70832764583f118fd)] -> xpath: //input[@id='MP_link']]
+2020-04-29 16:04:490 INFO  DashboardPage :30 - Getting Orange Text MessageProxy element for: DefaultElementLocator 'By.xpath: //h1[@id='UserHeading']'
+2020-04-29 16:04:557 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 16:04:937 INFO  LoginPage :34 - Enter user name AdminUsername field [[ChromeDriver: chrome on WINDOWS (0ed5ddfb7afe322fc4688bf4e24bb23f)] -> id: txtUsername]
+2020-04-29 16:04:42 INFO  LoginPage :41 - Enter password admin123Password field [[ChromeDriver: chrome on WINDOWS (0ed5ddfb7afe322fc4688bf4e24bb23f)] -> id: txtPassword]
